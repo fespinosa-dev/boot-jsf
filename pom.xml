@@ -8,11 +8,11 @@
         <version>2.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>dev.fespinosa</groupId>
     <artifactId>boot-jsf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>boot-jsf</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project showing how to integrate  spring boot with JSF</description>
     <properties>
         <java.version>11</java.version>
     </properties>
